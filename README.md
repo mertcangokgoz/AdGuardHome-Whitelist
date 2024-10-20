@@ -1,0 +1,2 @@
+# AdGuardHome-Whitelist
+ 
