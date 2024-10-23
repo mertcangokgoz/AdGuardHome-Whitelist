@@ -87,3 +87,4 @@
 @@||softwareupdates.amazon.com^$important
 @@||prod.amazoncrl.com^$important
 @@||web.diagnostic.networking.aws.dev^$important
+@@||ntc.party^$important
