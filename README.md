@@ -23,6 +23,7 @@ Reklamları, kötü amaçlı yazılımları ve izleyicileri engellemek için kul
 - https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt
 - https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
 - https://raw.githubusercontent.com/mertcangokgoz/AdGuardHome-Whitelist/refs/heads/main/blocklist.txt
+- https://raw.githubusercontent.com/mertcangokgoz/usom-mirror/refs/heads/main/usom_adguard_blacklist.txt
 
 ## Kullanılan Başlıca Whitelist Kaynakları
 
@@ -89,5 +90,9 @@ AdGuard Home sunucum şu IP ve portlarda dinlemektedir:
 - Maksimum DNS Sorgu Boyutu: 4096 bayt
 - IPv4 adresleri için alt ağ önek uzunluğu: 24
 - IPv6 adresleri için alt ağ önek uzunluğu: 56
-- EDNS istemci alt ağını etkin
-- Engelleme modu: `Sıfır IP adresiyle yanıt ver (A için 0.0.0.0; :: AAAA için)`
+- EDNS istemci alt ağı etkin
+- Engelleme modu: `NXDOMAIN: NXDOMAIN koduyla yanıt ver`
+
+## LICENSE
+
+Bu proje MIT lisansı altında lisanslanmıştır. Lütfen [LICENSE](LICENSE) dosyasını inceleyin.
