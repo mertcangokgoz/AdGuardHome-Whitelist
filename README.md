@@ -23,7 +23,7 @@ Reklamları, kötü amaçlı yazılımları ve izleyicileri engellemek için kul
 - https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt
 - https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
 - https://raw.githubusercontent.com/mertcangokgoz/AdGuardHome-Whitelist/refs/heads/main/blocklist.txt
-- https://raw.githubusercontent.com/mertcangokgoz/usom-mirror/refs/heads/main/usom_adguard_blacklist.txt
+- https://raw.githubusercontent.com/mertcangokgoz/usom-adguard-mirror/refs/heads/main/usom_adguard_blacklist.txt
 
 ## Kullanılan Başlıca Whitelist Kaynakları
 
