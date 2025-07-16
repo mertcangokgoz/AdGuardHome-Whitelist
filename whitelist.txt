@@ -21,7 +21,7 @@
 @@||aws.amazon.com^$important
 @@||bbuseruploads.s3.amazonaws.com^$important
 @@||cdn-apple.com^$important
-@@||cdn.optimizely.com^$important
+@@||optimizely.com^$important
 @@||chef.io^$important
 @@||clients2.google.com^$important
 @@||clients4.google.com^$important
@@ -118,3 +118,6 @@
 @@||www.googleapis.com^$important
 @@||ycombinator.com^$important
 @@||youtubei.googleapis.com^$important
+@@||fiat.com.tr^$important
+@@||tofas.com.tr^$important
+@@||awstrack.me^$important
