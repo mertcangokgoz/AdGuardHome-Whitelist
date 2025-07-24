@@ -19,9 +19,9 @@
 @@||apple.com^$important
 @@||atv-ps.amazon.com^$important
 @@||aws.amazon.com^$important
+@@||awstrack.me^$important
 @@||bbuseruploads.s3.amazonaws.com^$important
 @@||cdn-apple.com^$important
-@@||optimizely.com^$important
 @@||chef.io^$important
 @@||clients2.google.com^$important
 @@||clients4.google.com^$important
@@ -50,6 +50,7 @@
 @@||eulatracking-public-service-prod06.ol.epicgames.com^$important
 @@||fbcdn.net^$important
 @@||fbsbx.com^$important
+@@||fiat.com.tr^$important
 @@||fls-na.amazon.com^$important
 @@||g.live.com^$important
 @@||getsentry.net^$important
@@ -80,6 +81,7 @@
 @@||nvgs.nvidia.cn^$important
 @@||oauthaccountmanager.googleapis.com^$important
 @@||officeclient.microsoft.com^$important
+@@||optimizely.com^$important
 @@||oracle.com^$important
 @@||oraclecloud.com^$important
 @@||partners.team-cymru.com^$important
@@ -107,6 +109,7 @@
 @@||split.io^$important
 @@||stripe.com^$important
 @@||t.co^$important
+@@||tofas.com.tr^$important
 @@||turksat.com.tr^$important
 @@||turksatkablo.com.tr^$important
 @@||tvheryerde.com^$important
@@ -118,6 +121,3 @@
 @@||www.googleapis.com^$important
 @@||ycombinator.com^$important
 @@||youtubei.googleapis.com^$important
-@@||fiat.com.tr^$important
-@@||tofas.com.tr^$important
-@@||awstrack.me^$important
