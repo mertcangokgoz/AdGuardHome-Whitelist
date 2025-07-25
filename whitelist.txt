@@ -72,6 +72,7 @@
 @@||kablowebtv.com^$important
 @@||kablowebtv.net^$important
 @@||m-img.org^$important
+@@||mailchi.mp^$important
 @@||medium.com^$important
 @@||mikrotik.com^$important
 @@||netlify.com^$important
