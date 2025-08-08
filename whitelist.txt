@@ -4,6 +4,8 @@
 @@||a2z.com^$important
 @@||acsechocaptiveportal.com^$important
 @@||adj.st^$important
+@@||adjust.com^$important
+@@||adjust.io^$important
 @@||ahrefs.com^$important
 @@||aiv-cdn.net^$important
 @@||akadns.net^$important
@@ -20,6 +22,7 @@
 @@||atv-ps.amazon.com^$important
 @@||aws.amazon.com^$important
 @@||awstrack.me^$important
+@@||battle.net^$important
 @@||bbuseruploads.s3.amazonaws.com^$important
 @@||cdn-apple.com^$important
 @@||chef.io^$important
@@ -53,6 +56,7 @@
 @@||fiat.com.tr^$important
 @@||fls-na.amazon.com^$important
 @@||g.live.com^$important
+@@||geotrust.com^$important
 @@||getsentry.net^$important
 @@||gfe.nvidia.com^$important
 @@||github.com^$important
