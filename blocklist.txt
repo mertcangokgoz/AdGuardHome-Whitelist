@@ -30,6 +30,8 @@
 ||hoy.kr^
 ||is.gd^
 ||isurl.cc^
+||kslnk.com^
+||l.vg^
 ||l24.im^
 ||lik.st^
 ||link2.it^
